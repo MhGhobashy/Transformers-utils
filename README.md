@@ -8,4 +8,4 @@ The code provided is derived from the [Hugging Face Transformers documentation](
 
 ## Usage
 
-For an example of how this code is utilized, please refer to this Kaggle notebook about [Fine-tuning T5-Base model]([link-to-your-kaggle-notebook](https://www.kaggle.com/code/mghobashy/t5-news-summarizer).
+For an example of how this code is utilized, please refer to this Kaggle notebook about [Fine-tuning T5-Base model](https://www.kaggle.com/code/mghobashy/t5-news-summarizer).
